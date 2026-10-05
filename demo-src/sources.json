@@ -1,0 +1,33 @@
+{
+  "profile": "https://www.instagram.com/bakery_mekegi/",
+  "checked": "2026-10-05",
+  "facts": {
+    "address": "Астрахань, Красная Набережная, 92",
+    "hours": "Ежедневно 09:00–20:00",
+    "phones": [
+      "+7 (996) 094-74-27",
+      "+7 (927) 072-52-23"
+    ],
+    "delivery": true
+  },
+  "posts": {
+    "assortment": "https://www.instagram.com/bakery_mekegi/p/DdtC4I_CIzl/",
+    "meat_pie": "https://www.instagram.com/bakery_mekegi/p/DdLcKJ4omxf/",
+    "potato_dumplings": "https://www.instagram.com/bakery_mekegi/reel/DdyabE4IqJp/",
+    "adjika": "https://www.instagram.com/bakery_mekegi/reel/DdyQ_MJoJi1/"
+  },
+  "limitations": [
+    "Цены добавлены как демонстрационные по просьбе пользователя, не подтверждены пекарней. Фасовка и состав требуют уточнения.",
+    "Заказы и клиенты в CRM — демонстрационные.",
+    "Стоимость и сроки доставки не подтверждены.",
+    "Отдельная публикация пирога с пометкой ИИ-контент не использована; фото взято из карусели."
+  ],
+  "demo_prices_rub": {
+    "pie": 750,
+    "dumplings": 350,
+    "adjika": 250,
+    "chudu": 180,
+    "meat": 850,
+    "butter": 320
+  }
+}
